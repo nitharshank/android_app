@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Malware Detector</string>
+    <string name="analysing_file">Analysing %1$s…</string>
+    <string name="active_features_template">%1$d Drebin features active</string>
+    <string name="elapsed_template">Took %1$d ms</string>
+</resources>
